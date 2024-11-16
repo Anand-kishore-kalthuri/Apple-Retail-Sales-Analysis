@@ -1,0 +1,90 @@
+Product_ID,Product_Name,Category_ID,Launch_Date,Price
+P-1,MacBook,CAT-1,2023-09-17,1149
+P-2,MacBook Air (M1),CAT-1,2023-11-11,1783
+P-3,MacBook Air (M2),CAT-1,2020-05-24,1588
+P-4,MacBook Pro 13-inch,CAT-1,2021-01-17,1351
+P-5,MacBook Pro 14-inch,CAT-1,2024-05-12,768
+P-6,MacBook Pro 16-inch,CAT-1,2021-12-28,1179
+P-7,MacBook (Retina),CAT-1,2023-10-17,231
+P-8,MacBook Air (Retina),CAT-1,2020-01-16,1847
+P-9,MacBook Pro (Touch Bar),CAT-1,2024-06-17,1304
+P-10,MacBook (Early 2015),CAT-1,2022-11-19,741
+P-11,AirPods (2nd Generation),CAT-2,2022-06-13,504
+P-12,AirPods (3rd Generation),CAT-2,2021-05-30,1842
+P-13,AirPods Pro,CAT-2,2024-10-06,1167
+P-14,AirPods Pro (2nd Generation),CAT-2,2021-01-29,696
+P-15,AirPods Max,CAT-2,2022-08-19,1603
+P-16,Beats Studio Buds,CAT-2,2024-05-07,762
+P-17,Beats Fit Pro,CAT-2,2022-12-23,1839
+P-18,Beats Solo Pro,CAT-2,2024-02-26,1773
+P-19,Beats Powerbeats Pro,CAT-2,2020-12-15,1060
+P-20,HomePod (2nd Generation),CAT-2,2020-10-15,689
+P-21,HomePod mini,CAT-2,2022-04-05,438
+P-22,iPad (10th Generation),CAT-3,2021-05-18,1735
+P-23,iPad (9th Generation),CAT-3,2022-03-08,1949
+P-24,iPad mini (6th Generation),CAT-3,2022-11-27,573
+P-25,iPad mini (5th Generation),CAT-3,2023-01-10,1912
+P-26,iPad Air (5th Generation),CAT-3,2021-03-06,1591
+P-27,iPad Air (4th Generation),CAT-3,2021-04-24,952
+P-28,iPad Pro 11-inch,CAT-3,2023-05-07,1761
+P-29,iPad Pro 12.9-inch,CAT-3,2023-11-10,1167
+P-30,iPad Pro (M1),CAT-3,2020-09-14,1329
+P-31,iPad Pro (M2),CAT-3,2021-08-25,1826
+P-32,iPhone 14,CAT-4,2021-06-13,1476
+P-33,iPhone 14 Plus,CAT-4,2023-09-04,1259
+P-34,iPhone 14 Pro,CAT-4,2021-12-24,1380
+P-35,iPhone 14 Pro Max,CAT-4,2024-10-07,678
+P-36,iPhone 13,CAT-4,2023-06-15,623
+P-37,iPhone 13 mini,CAT-4,2021-06-20,1092
+P-38,iPhone 13 Pro,CAT-4,2021-03-22,308
+P-39,iPhone 13 Pro Max,CAT-4,2024-05-09,820
+P-40,iPhone SE (3rd Generation),CAT-4,2022-11-10,923
+P-41,iPhone 12,CAT-4,2020-03-05,1436
+P-42,iPhone 12 mini,CAT-4,2020-10-31,1607
+P-43,iPhone 12 Pro,CAT-4,2024-08-03,1342
+P-44,iPhone 12 Pro Max,CAT-4,2020-09-09,544
+P-45,Apple Watch Series 9,CAT-5,2020-09-12,1014
+P-46,Apple Watch Ultra,CAT-5,2024-08-30,346
+P-47,Apple Watch SE,CAT-5,2020-01-20,1546
+P-48,Apple Watch Nike Edition,CAT-5,2020-06-24,884
+P-49,Apple Watch Hermès,CAT-5,2020-01-01,1712
+P-50,Apple Watch Series 8,CAT-5,2022-07-12,1631
+P-51,Apple Watch Series 7,CAT-5,2020-01-13,1431
+P-52,Apple Watch Series 6,CAT-5,2023-04-27,462
+P-53,Apple Watch Series 5,CAT-5,2023-11-10,1296
+P-54,Apple TV 4K,CAT-6,2023-02-17,1255
+P-55,Apple TV HD,CAT-6,2021-11-24,1258
+P-56,Apple TV (3rd Generation),CAT-6,2020-07-01,477
+P-57,iMac 24-inch,CAT-7,2021-04-07,449
+P-58,iMac 27-inch,CAT-7,2022-05-17,1918
+P-59,iMac Pro,CAT-7,2021-08-20,1081
+P-60,iMac with Retina Display,CAT-7,2020-07-24,343
+P-61,Mac Pro (2023),CAT-7,2023-07-14,681
+P-62,Mac Pro (Tower),CAT-7,2022-10-31,458
+P-63,Mac Pro (Rack),CAT-7,2022-06-06,1415
+P-64,Mac Studio,CAT-7,2024-02-15,613
+P-65,Mac Mini,CAT-7,2020-09-27,555
+P-66,Mac Mini (M2),CAT-7,2021-10-30,874
+P-67,iCloud,CAT-8,2021-01-26,1181
+P-68,Apple Music,CAT-8,2020-09-26,1965
+P-69,Apple TV+,CAT-8,2024-11-04,404
+P-70,Apple Fitness+,CAT-8,2021-05-06,923
+P-71,Apple Arcade,CAT-8,2024-09-13,549
+P-72,Apple News+,CAT-8,2022-01-26,253
+P-73,Apple One,CAT-8,2020-05-02,488
+P-74,HomePod,CAT-9,2020-08-11,1202
+P-75,HomePod mini,CAT-9,2023-06-22,266
+P-76,Magic Keyboard,CAT-10,2020-05-16,368
+P-77,Magic Keyboard with Touch ID,CAT-10,2023-04-09,1162
+P-78,Magic Mouse,CAT-10,2023-08-26,313
+P-79,Magic Trackpad,CAT-10,2024-05-25,1242
+P-80,Apple Pencil (1st Generation),CAT-10,2024-06-30,925
+P-81,Apple Pencil (2nd Generation),CAT-10,2023-06-21,1506
+P-82,Smart Keyboard Folio,CAT-10,2020-03-10,572
+P-83,Smart Cover for iPad,CAT-10,2023-01-25,1014
+P-84,Leather Case for iPhone,CAT-10,2022-06-23,866
+P-85,Silicone Case for iPhone,CAT-10,2022-01-22,1210
+P-86,MagSafe Battery Pack,CAT-10,2020-03-27,1389
+P-87,MagSafe Charger,CAT-10,2024-03-27,1744
+P-88,AirTag,CAT-10,2020-05-11,677
+P-89,Lightning to USB Cable,CAT-10,2024-01-05,1434
